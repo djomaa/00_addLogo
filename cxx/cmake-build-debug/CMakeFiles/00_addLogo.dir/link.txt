@@ -1,0 +1,1 @@
+i686-w64-mingw32-g++  -g   CMakeFiles/00_addLogo.dir/main.cpp.o  -o 00_addLogo /usr/lib/x86_64-linux-gnu/libMagick++.so 

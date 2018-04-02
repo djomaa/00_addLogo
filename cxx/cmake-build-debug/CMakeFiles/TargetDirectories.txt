@@ -1,0 +1,3 @@
+/home/djoma/projects/00_addLogo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/djoma/projects/00_addLogo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/djoma/projects/00_addLogo/cmake-build-debug/CMakeFiles/00_addLogo.dir

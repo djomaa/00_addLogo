@@ -1,0 +1,6 @@
+/home/djoma/projects/00_addLogo/gui/obj/x86/Debug/main.csproj.CoreCompileInputs.cache
+/home/djoma/projects/00_addLogo/gui/obj/x86/Debug/gui.exe
+/home/djoma/projects/00_addLogo/gui/obj/x86/Debug/gui.pdb
+/home/djoma/projects/00_addLogo/gui/obj/x86/Debug/main.csprojResolveAssemblyReference.cache
+/home/djoma/projects/00_addLogo/gui/bin/Debug/gui.exe
+/home/djoma/projects/00_addLogo/gui/bin/Debug/gui.pdb
